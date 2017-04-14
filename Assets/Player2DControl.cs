@@ -43,7 +43,7 @@ public class Player2DControl : MonoBehaviour {
 
     void OnCollisionExit2D(Collision2D coll)
     {
-        if (coll.transform.tag == "Ground")
+        if (coll.transform.tag == "Ground") //Some comment
         {
             body.drag = 0;
             jump = false;
