@@ -4,4 +4,20 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/pod_android/menu.unity
+  - enabled: 1
+    path: Assets/pod_android/igra.unity
+  - enabled: 1
+    path: Assets/pod_android/IP.unity
+  - enabled: 1
+    path: Assets/pod_android/marshrut.unity
+  - enabled: 1
+    path: Assets/pod_android/podskaska.unity
+  - enabled: 1
+    path: Assets/pod_android/RK.unity
+  - enabled: 1
+    path: Assets/pod_android/TM.unity
+  - enabled: 1
+    path: Assets/pod_android/TS.unity
